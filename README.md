@@ -1,5 +1,5 @@
 # hadoop-mapreduce
-Big Data project: Do viral tweets about bitcoin influence its price?
+Big Data project: Do viral tweets about bitcoin have the potential to influence its price?
 
 
 
